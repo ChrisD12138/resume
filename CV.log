@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.25)  17 OCT 2021 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.25)  8 APR 2022 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -484,6 +484,9 @@ LaTeX Info: Redefining \nameref on input line 50.
 \@outlinefile=\write3
 \openout3 = `CV.out'.
 
+\pagenumberwidth=\skip74
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <24.88> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 52.
 
@@ -542,8 +545,6 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 59.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 59.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
 (Font)              using `T1/lmss/m/sc' instead on input line 59.
@@ -568,49 +569,51 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 64.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 77.
+(Font)              using `T1/lmss/m/sc' instead on input line 76.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 83.
+(Font)              using `T1/lmss/m/sc' instead on input line 90.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 89.
+(Font)              using `T1/lmss/m/sc' instead on input line 96.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 93.
+(Font)              using `T1/lmss/m/sc' instead on input line 100.
 
 [1
 
-{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./CV.aux)
+{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 1B355D29EA6E58F1946CBF87F444C9F4;357.
  ) 
 Here is how much of TeX's memory you used:
- 12166 strings out of 481380
- 181413 string characters out of 5919203
- 517432 words of memory out of 5000000
+ 12169 strings out of 481380
+ 181441 string characters out of 5919203
+ 517739 words of memory out of 5000000
  28700 multiletter control sequences out of 15000+600000
- 579897 words of font info for 66 fonts, out of 8000000 for 9000
+ 579998 words of font info for 67 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 80i,11n,85p,380b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,13n,85p,380b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/texlive/2020
 /texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/texlive/2020/texmf-dist/fonts/enc/
-dvips/lm/lm-ec.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.e
-nc}<d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/texlive/20
-20/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><d:/texlive/2020/texmf-dist/font
-s/type1/public/lm/lmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/l
-mss10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb><d:/texl
-ive/2020/texmf-dist/fonts/type1/public/lm/lmss9.pfb><d:/texlive/2020/texmf-dist
-/fonts/type1/public/lm/lmssbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/pub
-lic/lm/lmsso10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/marvosym/marv
-osym.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on CV.pdf (1 page, 225826 bytes).
+dvips/lm/lm-mathsy.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}<d:/texlive/202
+0/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/texlive/2020/texmf-dist/font
+s/type1/public/lm/lmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/
+lmr10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb><d:/texl
+ive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb><d:/texlive/2020/texmf-dis
+t/fonts/type1/public/lm/lmss9.pfb><d:/texlive/2020/texmf-dist/fonts/type1/publi
+c/lm/lmssbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
+><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/texlive/2020/
+texmf-dist/fonts/type1/public/marvosym/marvosym.pfb><d:/texlive/2020/texmf-dist
+/fonts/type1/public/tex-gyre/qplr.pfb>
+Output written on CV.pdf (2 pages, 230907 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  13857 words of extra memory for PDF output out of 14400 (max. 10000000)
 
