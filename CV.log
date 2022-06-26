@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.25)  8 APR 2022 15:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.25)  26 APR 2022 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -569,19 +569,23 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 64.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 76.
+(Font)              using `T1/lmss/m/sc' instead on input line 77.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 90.
+(Font)              using `T1/lmss/m/sc' instead on input line 83.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 96.
+(Font)              using `T1/lmss/m/sc' instead on input line 97.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 100.
+(Font)              using `T1/lmss/m/sc' instead on input line 104.
+
+
+LaTeX Font Warning: Font shape `T1/lmss/m/scit' undefined
+(Font)              using `T1/lmss/m/sc' instead on input line 110.
 
 [1
 
@@ -592,11 +596,11 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  12169 strings out of 481380
  181441 string characters out of 5919203
- 517739 words of memory out of 5000000
+ 519870 words of memory out of 5000000
  28700 multiletter control sequences out of 15000+600000
  579998 words of font info for 67 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 80i,13n,85p,380b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,12n,85p,370b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/texlive/2020
 /texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/texlive/2020/texmf-dist/fonts/enc/
 dvips/lm/lm-mathsy.enc}{d:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
@@ -610,7 +614,7 @@ c/lm/lmssbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
 ><d:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/texlive/2020/
 texmf-dist/fonts/type1/public/marvosym/marvosym.pfb><d:/texlive/2020/texmf-dist
 /fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on CV.pdf (2 pages, 230907 bytes).
+Output written on CV.pdf (2 pages, 226770 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
